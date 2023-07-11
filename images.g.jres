@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8HcP//////////////////////////////////////9///d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d//3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3//d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d//3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3//d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d//3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3//d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/9///////////////////////////////////////f//3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwdw8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pipe0"
+    },
+    "image1": {
+        "data": "hwQQAEAAAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB3DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//3//////////////////////////////////////9//3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3//d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d//3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3//d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d//3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3//d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d//3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3//9///////////////////////////////////////8HcPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pipe"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
