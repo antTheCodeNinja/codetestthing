@@ -139,3 +139,4 @@ let mySprite = sprites.create(img`
     . . . . . f f b b f f . . . . . 
     `, SpriteKind.Player)
 mySprite.sayText("Hello world")
+controller.moveSprite(mySprite)
